@@ -19,7 +19,7 @@ class extension_manager:
        ==========================================================
        --- version:: loading...
        
-       Paramaters:
+       Parameters:
        ----------
        Dir : directory (of folders) to a file extension or file name.
        Example:
